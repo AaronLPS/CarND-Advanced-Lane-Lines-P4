@@ -1,10 +1,5 @@
-## Writeup Template
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
----
-
-**Advanced Lane Finding Project**
+## **Advanced Lane Finding Project**
 
 The goals / steps of this project are the following:
 
@@ -146,7 +141,7 @@ Here is an example of my result on a test image:
 
 The code of pipeline was implemented at section 7 of the file(./examples/advanced_lane_finding.ipynb).
 
-Here's a link to my final video output: [project_video_output.mp4 ](../project_video_output.mp4)
+Here's a link to my final video output: [project_video_output.mp4 ](./project_video_output.mp4)
 
 
 ---
